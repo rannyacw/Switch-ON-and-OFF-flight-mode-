@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlightModeSwitch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="switchon_app_name">FlightMode On</string>
+    <string name="switchoff_app_name">FlightMode Off</string>
+    
+</resources>
